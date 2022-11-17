@@ -9,6 +9,8 @@ public class gitTest {
 		int a=10;
 		String test = "유병승";
 		System.out.println(a+test);
+		
+		System.out.println("안녕하세요~ 오늘은 git 입니다.");
 
 	}
 
